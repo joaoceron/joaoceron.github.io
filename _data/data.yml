@@ -102,7 +102,7 @@ publications:
         conference: "MonAm (2006 set.: TÃ¼bingen, Germany). Proceedings of the IEEE/IST. TÃ¼bingen: IEEE, 200"
 
       - paper:
-        title: MARS: From traffic containment to network reconfiguration in malware-analysis systems
+        title: "MARS: From traffic containment to network reconfiguration in malware-analysis systems"
         authors: "JoÃ£o Marcelo Ceron, CÃ­ntia Borges Margi, Lisandro Zambenedetti Granville"
         conference: "Computer Networks "
 
