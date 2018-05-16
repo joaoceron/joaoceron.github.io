@@ -91,6 +91,11 @@ publications:
         authors: Carlos Raniery P. dos Santos; Rafael Santos Bezerra; Joao Marcelo Ceron; Lisandro Zambenedetti Granville; Liane M. R. Tarouco
         conference: "2010 International Conference on Network and Service Management"
 
+      - paper:
+        title: Identifying botnet communications using a mashup-based approach
+        authors: Carlos Raniery P. dos Santos; Rafael Santos Bezerra; João Marcelo Ceron; Lisandro Zambenedetti Granville; Liane M. R. Tarouco
+        conference: "2011 7th Latin American Network Operations and Management Symposium"
+
 
 skills:
     title: Skills &amp; Proficiency
