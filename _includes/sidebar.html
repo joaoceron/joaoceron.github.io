@@ -18,10 +18,6 @@
    <div class="contact-container container-block">
        <ul class="list-unstyled contact-list">
 
-          {% if site.data.data.sidebar.email %}
-           <li class="email"><i class="fa fa-envelope"></i><a href="mailto: {{site.data.data.sidebar.email}}">{{site.data.data.sidebar.email}}</a></li>
-           {% endif %}
-
            {% if site.data.data.sidebar.website %}
            <li class="website"><i class="fa fa-globe"></i><a href="http://{{site.data.data.sidebar.website}}" target="_blank">{{site.data.data.sidebar.website}}</a></li>
            {% endif %}
@@ -46,8 +42,5 @@
   {% endif %}
   {% include language.html %}
   {% include interests.html %}
-  {% if site.data.data.sidebar.about == true %}
-    {% include about.html %}
-  {% endif %}
 
 </div><!--//sidebar-wrapper-->
