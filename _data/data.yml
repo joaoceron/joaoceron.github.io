@@ -77,13 +77,15 @@ publications:
     
     publications:
       - paper:
-        title: The Art of Computer Programming
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
+        title: Mars: An sdn-based malware analysis solution
+        authors: João Marcelo Ceron; Cíntia Borges Margi; Lisandro Zambenedetti Granville
+        conference: 2016 IEEE Symposium on Computers and Communication (ISCC)
+
       - paper:
-        title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
+        title: On using mashups for composing network management applications
+        authors: Carlos Raniery Paula dos Santos; Rafael Santos Bezerra; Joao Marcelo Ceron; Lisandro Zambenedetti Granville; Liane Margarida Rockenbach Tarouco
+        conference: IEEE Communications Magazine Year: 2010, Volume: 48, Issue: 12
+
       - paper:
         title: A syntax directed compiler for Algol 60
         authors: Edgar T. Irons
