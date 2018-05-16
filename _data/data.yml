@@ -62,18 +62,9 @@ projects:
         link: "http://www.sand-project.nl/"
         tagline: "Perform applied research in Anycast services aiming to provide tools and recomendations for DNS operators."
       - project:
-        title: DevStudio
-        link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
-      - project:
-        title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
-      - project:
-        title: Atom
-        link: "#"
-        tagline: "Malware analysis system based on SDN."
- 
+        title: MARS
+        link: "http://mars.botlog.org/"
+        tagline: "Malware analysis system based on SDN"
       - project:
         title: IoT malware investigation
         link: "#"
