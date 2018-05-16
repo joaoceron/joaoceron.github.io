@@ -58,25 +58,19 @@ projects:
     
     projects:
       - project:
-        title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
-      - project:
-        title: DevStudio
+        title: SAND
+        link: "http://www.sand-project.nl/"
+        tagline: "Applied research in Anycast services aiming to provide tools and recomendations for DNS operators.."
+   
+   - project:
+        title: MARS
         link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
+        tagline: "Malware analysis system based on SDN."
+ 
       - project:
-        title: Tempo
+        title: IoT malware investigation
         link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
-      - project:
-        title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-      - project:
-        title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+        tagline: "Investigate IoT malware characteristics."
 
 
 publications:
