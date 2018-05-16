@@ -35,7 +35,7 @@ sidebar:
 
 career-profile: 
     title: About Me
-    text: 'Summarise your career here lorem ipsum dolor sit amet, consectetuer adipiscing elit.You can <a href="#" target="_blank">download this free resume/CV template here</a>. Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu.'
+    text: 'I\'m a network security researcher working Summarise your career here lorem ipsum dolor sit amet, consectetuer adipiscing elit.You can <a href="#" target="_blank">download this free resume/CV template here</a>. Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu.'
 
 
 studies: 
@@ -58,9 +58,9 @@ projects:
     
     projects:
       - project:
-        title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+        title: SAND
+        link: "http://www.sand-project.nl/"
+        tagline: "Perform applied research in Anycast services aiming to provide tools and recomendations for DNS operators."
       - project:
         title: DevStudio
         link: "#"
