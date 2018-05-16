@@ -77,7 +77,7 @@ publications:
     
     publications:
       - paper:
-        title: Mars: An sdn-based malware analysis solution
+        title: Mars An sdn-based malware analysis solution
         authors: João Marcelo Ceron; Cíntia Borges Margi; Lisandro Zambenedetti Granville
         conference: 2016 IEEE Symposium on Computers and Communication (ISCC)
 
