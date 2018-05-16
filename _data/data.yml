@@ -1,12 +1,12 @@
 sidebar:
     # Site Settings
-    title: My Resume
-    url: 'http://webjeda.com'
-    about: true # set to False or comment line if you want to remove the "How to use?" in the sidebar
+    title: dr. Joao Ceron
+    url: 'http://botlog.org/'
+    about: false # set to False or comment line if you want to remove the "How to use?" in the sidebar
     
     # Profile information
-    name: Alan Doe
-    tagline: Full Stack Developer
+    name: Joao Marcelo Ceron
+    tagline: Network Security Researcher
     pic: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
     
     # Sidebar links
@@ -30,10 +30,10 @@ sidebar:
         
     interests:
         - interest:
-          item: Climbing
+          item: DDoS
           link:
         - interest:
-          item: Snowboarding
+          item: Anycast
           link:
         - interest:
           item: Cooking
@@ -45,32 +45,25 @@ sidebar:
 
 
 career-profile: 
-    title: Career Profile
+    title: About Me
     text: 'Summarise your career here lorem ipsum dolor sit amet, consectetuer adipiscing elit.You can <a href="#" target="_blank">download this free resume/CV template here</a>. Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu.'
 
 
 studies: 
     - education:
-      degree: MSc in Computer Science
-      university: University of London
-      time: 2011 - 2012
-      details: "Describe your study here lorem ipsum dolor sit amet, consectetuer adipiscing
-      elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et
-      magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec,
-      pellentesque eu, pretium quis, sem."
+      degree: Ph.D in Computer Engineering
+      university: University of Sao Paulo - Brazil
 
     - education:
-      degree: BSc in Applied Mathematics
-      university: Bristol University
-      time: 2007 - 2011
-      details: "Describe your study here lorem ipsum dolor sit amet, consectetuer adipiscing
-      elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et
-      magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec,
-      pellentesque eu, pretium quis, sem."
+      degree: MSc in Computer Science
+      university: University of Rio Grande do Sul - Brazil
 
+    - education:
+      degree: BSc in Computer Science
+      university: Unisinos - Brazil
 
 projects:
-    title: Projects
+    title: Research
     intro: "You can list your side projects or open source libraries in this section. Lorem ipsum dolor
       sit amet, consectetur adipiscing elit. Vestibulum et ligula in nunc bibendum fringilla a eu lectus."
     
