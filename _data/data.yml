@@ -17,28 +17,19 @@ sidebar:
     github: sharu725
     twitter: '@webjeda'
 
-    languages:
-        - language:
-          idiom: English
-          level: Native
-        - language:
-          idiom: French
-          level: Professional
-        - language:
-          idiom: Spanish
-          level: Professional
-        
     interests:
-        - interest:
-          item: DDoS
-          link:
         - interest:
           item: Anycast
           link:
         - interest:
-          item: Cooking
+          item: DDoS
           link:
-
+        - interest:
+          item: Malware Analysis
+          link:
+        - interest:
+          item: Botnet
+          link:
         
 
 
