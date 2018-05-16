@@ -1,14 +1,14 @@
 {% if site.data.data.studies %}
     {% if site.education_in_main %}
         <section class="section educations-section">
-        <h2 class="section-title"><i class="fa fa-graduation-cap"></i>Education</h2>
+        <h2 class="section-title"><i class="fa fa-graduation-cap"></i>Education TESTE</h2>
         {% for education in site.data.data.studies %}
           <div class="item">
           
             <div class="meta">
             
               <div class="upper-row">
-                <h3 class="degree"><i class="fa fa-globe">  <span class="glyphicon glyphicon-education"> TESTE {{ education.degree }}</h3>
+                <h3 class="degree">{{ education.degree }}</h3>
                 <div class="time">{{ education.time }}</div>
               </div><!--//upper-row-->
               
