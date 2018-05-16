@@ -83,11 +83,12 @@ projects:
       - project:
         title: Atom
         link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+        tagline: "Malware analysis system based on SDN."
+ 
       - project:
-        title: Delta
+        title: IoT malware investigation
         link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+        tagline: "Investigate IoT malware characteristics."
 
 
 publications:
@@ -133,4 +134,4 @@ skills:
 
 
 footer: 
-    text: 'Designed with <i class="fa fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a> for developers'
+    text: ''
