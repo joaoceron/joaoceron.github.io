@@ -96,6 +96,21 @@ publications:
         authors: Carlos Raniery P. dos Santos; Rafael Santos Bezerra; João Marcelo Ceron; Lisandro Zambenedetti Granville; Liane M. R. Tarouco
         conference: "2011 7th Latin American Network Operations and Management Symposium"
 
+      - paper:
+        title: Honeypots as a security mechanism
+        authors: "Ãmerson Salvadori Virti, Liane Margarida Rockenbach Tarouco, Lisandro Zambenedetti Granville, Leandro MÃ¡rcio Bertholdo, JoÃ£o Marcelo Ceron"
+        conference: "MonAm (2006 set.: TÃ¼bingen, Germany). Proceedings of the IEEE/IST. TÃ¼bingen: IEEE, 200"
+
+      - paper:
+        title: MARS: From traffic containment to network reconfiguration in malware-analysis systems
+        authors: "JoÃ£o Marcelo Ceron, CÃ­ntia Borges Margi, Lisandro Zambenedetti Granville"
+        conference: "Computer Networks "
+
+      - paper:
+        title: Anatomy of SIP Attacks
+        authors: "JoÃ£o Marcelo Ceron, Klaus Steding-Jessen, Cristine Hoeper"
+        conference: "; login:: the magazine of USENIX & SAGE, 2012"
+
 
 skills:
     title: Skills &amp; Proficiency
