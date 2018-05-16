@@ -17,17 +17,6 @@ sidebar:
     github: joaoceron
     twitter: '@ceron'
 
-    languages:
-        - language:
-          idiom: English
-          level: Native
-        - language:
-          idiom: French
-          level: Professional
-        - language:
-          idiom: Spanish
-          level: Professional
-        
     interests:
         - interest:
           item: Climbing
@@ -38,10 +27,6 @@ sidebar:
         - interest:
           item: Cooking
           link:
-
-        
-
-
 
 
 career-profile: 
