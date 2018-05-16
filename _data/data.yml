@@ -19,13 +19,19 @@ sidebar:
 
     interests:
         - interest:
-          item: Climbing
+          item: DDoS
           link:
         - interest:
-          item: Snowboarding
+          item: Anycast
           link:
         - interest:
-          item: Cooking
+          item: IoT Security
+          link:
+        - interest:
+          item: Malware Analysis
+          link:
+        - interest:
+          item: Botnet
           link:
 
 
@@ -47,9 +53,8 @@ studies:
       degree: BSc in Computer Science
       university: Unisinos - Brazil
 
-
 projects:
-    title: Projects
+    title: Research
     intro: "You can list your side projects or open source libraries in this section. Lorem ipsum dolor
       sit amet, consectetur adipiscing elit. Vestibulum et ligula in nunc bibendum fringilla a eu lectus."
     
