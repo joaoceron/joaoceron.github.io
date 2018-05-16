@@ -84,12 +84,12 @@ publications:
       - paper:
         title: On using mashups for composing network management applications
         authors: Carlos Raniery Paula dos Santos; Rafael Santos Bezerra; Joao Marcelo Ceron; Lisandro Zambenedetti Granville; Liane Margarida Rockenbach Tarouco
-        conference: IEEE Communications Magazine Year: 2010, Volume: 48, Issue: 12
+        conference: "IEEE Communications Magazine Year: 2010, Volume: 48, Issue: 12"
 
       - paper:
-        title: A syntax directed compiler for Algol 60
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
+        title: Botnet master detection using a mashup-based approach
+        authors: Carlos Raniery P. dos Santos; Rafael Santos Bezerra; Joao Marcelo Ceron; Lisandro Zambenedetti Granville; Liane M. R. Tarouco
+        conference: "2010 International Conference on Network and Service Management"
 
 
 skills:
