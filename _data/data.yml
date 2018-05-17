@@ -43,27 +43,26 @@ career-profile:
     Currently, I coordinate the activities of the SAND project that is
     supported by <a href="http://www.sidn.nl">SIDN</a>, <a
     href="http://www.utwente.nl">University of Twente</a>, and <a
-    href="http://www.nlnetlabs.nl">NLNETLABS</a>. <br><br> My
-    backgroud is in applied network security research, in particular
-    to investigate malware behaviors. In my master s degree, I studied
-    botnet tracking mechanisms using network flows and malware
-    analysis. You can find my master&apos;s thesis <a
+    href="http://www.nlnetlabs.nl">NLNETLABS</a>.
+
+    <br><br>My background is in applied network security research, in
+    particular, to investigate malware behaviors. In my master s
+    degree, I studied botnet tracking mechanisms using network flows
+    and malware analysis. You can find my  master&apos;s thesis <a
     href="http://www.lume.ufrgs.br/handle/10183/70238?locale-attribute=en">[here]
-    </a>(in portuguese only), however we have published few papers
-    with the result of that research, see <a href="#papers">
-    papers</a> section. <br> In my Ph.D I developed I malware analysis
-    environment based on SDN (Software-Defining Networks). The idea is
-    to manipulate the malware origineted flow to triggers unseen
-    malware behaviours. You can find my Ph.D thesis <a
+    (in Portuguese only), however, we have published few papers with
+    the result of that research, see  <a href="#papers"> papers</a>
+    section. <br>
+
+    During my Ph.D. I developed a malware analysis environment based
+    on SDN (Software-Defined Networking). The idea is to manipulate
+    the flows originated from malware to triggers unseen malware
+    behaviors. You can find my Ph.D. thesis <a
     href="http://www.teses.usp.br/teses/disponiveis/3/3141/tde-28022018-105426/en.php">[here]</a>
-    (also in portuguese), if you are interested check it out the
-    papers that we published associate with this subject. <br><br>
-    Besides my research background, I used to work as a Security
-    Analyst at <a href="http://www.cert.br/">Brazilian National
-    CERT</a> where we handle computer security incidents associated
-    with brazilian network address space, including phishing, DDoS,
-    malware, and misconfigured services used in amplification
-    attacks.'
+    (also in Portuguese), if you are interested check it out the <a
+    href="#papers"> papers</a> section that we published associated
+    with this subject. <br>'
+
 
 studies: 
     - education:
