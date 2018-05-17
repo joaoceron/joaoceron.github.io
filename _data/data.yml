@@ -85,7 +85,7 @@ studies:
 
 projects:
     title: Research
-    intro: "You can a list of projects that I'm working on. " 
+    intro: "You can find a list of projects that I'm working on. " 
     projects:
       - project:
         title: SAND
@@ -143,11 +143,11 @@ publications:
 
 students:
     title: Students
-    intro: 'We have an open position for Ph.D student. The research subject is associated with anycast and DDoS. You can find more details in the following description <a href="https://joaoceron.github.io/assets/images/php-vacancy-NWO-DHS.pdf" target="_blank">here</a>.'
+    intro: 'We have an open position for one Ph.D student. The research subject is associated with anycast and DDoS. You can find more details in the following description <a href="https://joaoceron.github.io/assets/images/php-vacancy-NWO-DHS.pdf" target="_blank">here</a>.'
     #names:
     #    - student:
-    #      name: Python & Django
-    #      project: opa
+    #      name: Tiririca
+    #      project: Senado
     #    - student:
     #      name: Sketch & Photoshop
     #      project: opa6
