@@ -86,22 +86,22 @@ publications:
     publications:
       - paper:
         title: Mars An sdn-based malware analysis solution
-        authors: João Marcelo Ceron; Cíntia Borges Margi; Lisandro Zambenedetti Granville
+        authors: Jo&atilde;o Marcelo Ceron; C&iacute;ntia Borges Margi; Lisandro Zambenedetti Granville
         conference: 2016 IEEE Symposium on Computers and Communication (ISCC)
 
       - paper:
         title: On using mashups for composing network management applications
-        authors: Carlos Raniery Paula dos Santos; Rafael Santos Bezerra; Joao Marcelo Ceron; Lisandro Zambenedetti Granville; Liane Margarida Rockenbach Tarouco
+        authors: Carlos Raniery Paula dos Santos; Rafael Santos Bezerra; Jo&atilde;o Marcelo Ceron; Lisandro Zambenedetti Granville; Liane Margarida Rockenbach Tarouco
         conference: "IEEE Communications Magazine Year: 2010, Volume: 48, Issue: 12"
 
       - paper:
         title: Botnet master detection using a mashup-based approach
-        authors: Carlos Raniery P. dos Santos; Rafael Santos Bezerra; Joao Marcelo Ceron; Lisandro Zambenedetti Granville; Liane M. R. Tarouco
+        authors: Carlos Raniery P. dos Santos; Rafael Santos Bezerra; Jo&atilde;o  Marcelo Ceron; Lisandro Zambenedetti Granville; Liane M. R. Tarouco
         conference: "2010 International Conference on Network and Service Management"
 
       - paper:
         title: Identifying botnet communications using a mashup-based approach
-        authors: Carlos Raniery P. dos Santos; Rafael Santos Bezerra; João Marcelo Ceron; Lisandro Zambenedetti Granville; Liane M. R. Tarouco
+        authors: Carlos Raniery P. dos Santos; Rafael Santos Bezerra; Jo&atilde;o Marcelo Ceron; Lisandro Zambenedetti Granville; Liane M. R. Tarouco
         conference: "2011 7th Latin American Network Operations and Management Symposium"
 
       - paper:
@@ -111,7 +111,7 @@ publications:
 
       - paper:
         title: "MARS: From traffic containment to network reconfiguration in malware-analysis systems"
-        authors: "Jo&atilde;o Marcelo Ceron, CÃ­ntia Borges Margi, Lisandro Zambenedetti Granville"
+        authors: "Jo&atilde;o Marcelo Ceron, C&iacute;ntia Borges Margi, Lisandro Zambenedetti Granville"
         conference: "Computer Networks "
 
       - paper:
