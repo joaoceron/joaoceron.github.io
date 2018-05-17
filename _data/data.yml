@@ -117,16 +117,22 @@ skills:
     skills:
         - skill:
           name: Python & Django
+          project:
         - skill:
           name: Javascript & jQuery
+          project:
         - skill:
           name: Angular
+          project:
         - skill:
           name: HTML5 & CSS
+          project:
         - skill:
           name: Ruby on Rails
+          project:
         - skill:
           name: Sketch & Photoshop
+          project:
 
 
 footer: 
