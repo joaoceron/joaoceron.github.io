@@ -41,11 +41,28 @@ career-profile:
     Engineering, Maths and Computer Science (EEMCS) </a> at the <a
     href="http://www.utwente.nl">University of Twente.</a> <br> <br>
 
-    Currently Im coordenating the activities of the <a
-    href="http://www.sand-project.nl/">SAND</a> project that is
-    supported by <a href="http://www.sidn.nl">SIDN</a>, <a
-    href="http://www.utwente.nl">University of Twente.</a>, and <a
-    href="http://www.nlnetlabs.nl">NLNETLABS</a>'
+    Currently, I coordinate the activities of the SAND project that is
+    supported by the <a href="http://www.sand-project.nl/">SAND</a>
+    project that is supported by <a
+    href="http://www.sidn.nl">SIDN</a>, <a
+    href="http://www.utwente.nl">University of Twente</a>, and <a
+    href="http://www.nlnetlabs.nl">NLNETLABS</a>. <br><br>
+
+    My backgroud is in applied network security research, in
+    particular to investigate malware behaviors. In my master s
+    degree, I studied botnet tracking mechanisms using network flows
+    and malware analysis. You can find my master thesis [here] (in
+    portuguese only), however we have published few papers with the
+    result of that research, see <a href="#papers"> papers</a>
+    section.
+
+
+    (netflows). Using malware analysis I can identify network pattern
+    and by using flows I try to map them on the fly.
+
+
+ '
+
     
 
 studies: 
