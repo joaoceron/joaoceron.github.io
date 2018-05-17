@@ -116,7 +116,7 @@ publications:
 
 students:
     title: Students
-    intro: 'We have an open position for Ph.D student. The reserch subject is anycast and DDoS. You can find more details in the following <a href="/images/php-vacancy-NWO-DHS.pdf">description</a>'.
+    intro: "We have an open position for Ph.D student. The reserch subject is anycast and DDoS. You can find more details in the following <a href='/images/php-vacancy-NWO-DHS.pdf'>description</a>".
     #names:
     #    - student:
     #      name: Python & Django
