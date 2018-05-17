@@ -54,13 +54,12 @@ career-profile:
     and malware analysis. You can find my master thesis [here] (in
     portuguese only), however we have published few papers with the
     result of that research, see <a href="#papers"> papers</a>
-    section.
-
-
-    (netflows). Using malware analysis I can identify network pattern
-    and by using flows I try to map them on the fly.
-
-
+    section. <br> In my Ph.D I developed I malware analysis
+    environment based on SDN (Software-Defining Networks). The idea is
+    to manipulate the malware origineted flow to triggers unseen
+    malware behaviours. You can find my Ph.D thesis [here] (also in
+    portuguese), if you are interested check it out the papers that we
+    published associate with this subject. <br><br>
  '
 
     
