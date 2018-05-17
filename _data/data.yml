@@ -115,25 +115,24 @@ publications:
 students:
     title: Students
     names:
-        - skill:
+        - student:
           name: Python & Django
           project: opa
-        - skill:
+        - student:
           name: Javascript & jQuery
           project: opa
-        - skill:
+        - student:
           name: Angular
           project: opa2
-        - skill:
+        - student:
           name: HTML5 & CSS
           project: opa5
-        - skill:
+        - student:
           name: Ruby on Rails
           project: opa5 
-        - skill:
+        - student:
           name: Sketch & Photoshop
           project: opa6
-
 
 footer: 
     text: ''

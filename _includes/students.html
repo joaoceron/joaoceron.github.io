@@ -5,9 +5,9 @@
 
   <div class="skillset">
 
-    {% for skill in site.data.data.students.names%}
+    {% for student in site.data.data.students.names%}
     <div class="item">
-      <h3 class="level-title">{{ skill.name }} {{ skill.project }} </h3>
+      <h3 class="level-title">{{ student.name }} {{ student.project }} </h3>
 
     </div><!--//item-->
     {% endfor %}
