@@ -2,6 +2,12 @@
 <section class="skills-section section">
 
   <h2 class="section-title"><i class="fa fa-rocket"></i>{{site.data.data.students.title}}</h2>
+ 
+  {% if site.data.data.students.intro %}
+  <div class="intro">
+      <p>{{ site.data.data.students.intro }}</p>
+  </div><!--//intro-->
+  {% endif %}
 
   <div class="skillset">
 

@@ -114,10 +114,14 @@ publications:
 
 students:
     title: Students
+    intro: "Please contact me if you want to join in the projects"
     names:
         - student:
-          name: 
-          project: 
+          name: Python & Django
+          project: opa
+        - student:
+          name: Sketch & Photoshop
+          project: opa6
 
 footer: 
     text: ''
