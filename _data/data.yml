@@ -33,8 +33,6 @@ sidebar:
           link:
 
 
-
-
 career-profile: 
     title: About Me
     text: 'Im a network security researcher working Summarise your career here lorem ipsum dolor sit amet, consectetuer adipiscing elit.You can <a href="#" target="_blank">download this free resume/CV template here</a>. Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu.'
@@ -115,26 +113,20 @@ publications:
 
 
 skills:
-    title: Skills &amp; Proficiency
+    title: Students
     skills:
         - skill:
           name: Python & Django
-          level: 98%
         - skill:
           name: Javascript & jQuery
-          level: 98%
         - skill:
           name: Angular
-          level: 98%
         - skill:
           name: HTML5 & CSS
-          level: 95%
         - skill:
           name: Ruby on Rails
-          level: 85%
         - skill:
           name: Sketch & Photoshop
-          level: 60%
 
 
 footer: 
