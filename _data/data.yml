@@ -116,23 +116,8 @@ students:
     title: Students
     names:
         - student:
-          name: Python & Django
-          project: opa
-        - student:
-          name: Javascript & jQuery
-          project: opa
-        - student:
-          name: Angular
-          project: opa2
-        - student:
-          name: HTML5 & CSS
-          project: opa5
-        - student:
-          name: Ruby on Rails
-          project: opa5 
-        - student:
-          name: Sketch & Photoshop
-          project: opa6
+          name: 
+          project: 
 
 footer: 
     text: ''
