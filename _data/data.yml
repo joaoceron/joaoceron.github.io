@@ -57,9 +57,17 @@ career-profile:
     section. <br> In my Ph.D I developed I malware analysis
     environment based on SDN (Software-Defining Networks). The idea is
     to manipulate the malware origineted flow to triggers unseen
-    malware behaviours. You can find my Ph.D thesis [here] (also in
-    portuguese), if you are interested check it out the papers that we
-    published associate with this subject. <br><br>
+    malware behaviours. You can find my Ph.D thesis <a
+    href="http://www.teses.usp.br/teses/disponiveis/3/3141/tde-28022018-105426/en.php>[here]</a>
+    (also in portuguese), if you are interested check it out the
+    papers that we published associate with this subject. <br><br>
+
+    Besides my research background, I used to work with network
+    incident abuses. For 8 years I worked as a Security Analyst at
+    Brazilian National CERT handling computer incidents associated to
+    Brazil networks. In that time, I had the opportunity to be part of
+    the team the handled computer incidente during the World Cup and
+    Ollimpic Games.
  '
 
     
