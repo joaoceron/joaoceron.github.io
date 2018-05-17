@@ -1,11 +1,11 @@
 {% if site.data.data.skills %}
 <section class="skills-section section">
 
-  <h2 class="section-title"><i class="fa fa-rocket"></i>{{site.data.data.students.title}}</h2>
+  <h2 class="section-title"><i class="fa fa-rocket"></i>{{site.data.data.skills.title}}</h2>
 
   <div class="skillset">
 
-    {% for skill in site.data.data.students.skills %}
+    {% for skill in site.data.data.skills.skills %}
     <div class="item">
 	   <span class="project-title"><a href="{{ project.link }}">{{ skill.project }}</a></span>
       <h3 class="level-title">{{ skill.name }} {{ skill.project }} </h3>
