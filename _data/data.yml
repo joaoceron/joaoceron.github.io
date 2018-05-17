@@ -112,8 +112,8 @@ publications:
         conference: "; login:: the magazine of USENIX & SAGE, 2012"
 
 
-skills:
-    title: Students
+students:
+    title: Students1
     skills:
         - skill:
           name: Python & Django
