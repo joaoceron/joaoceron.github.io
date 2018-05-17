@@ -113,8 +113,8 @@ publications:
 
 
 students:
-    title: Students1
-    skills:
+    title: Students
+    names:
         - skill:
           name: Python & Django
           project: opa
