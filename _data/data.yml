@@ -149,6 +149,8 @@ students:
         - student:
           name: Dzul Dzulqarnain
           project: IoT Botnet
+          link:
+          degree: master
     #    - student:
     #      name: Sketch & Photoshop
     #      project: opa6
