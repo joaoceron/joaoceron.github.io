@@ -13,8 +13,6 @@
 
     {% for student in site.data.data.students.names%}
     <div class="item">
-      <h3 class="level-title">{{ student.name }} </h3>
-		- <span class="project-tagline">{{ student.project }}</span>
 
 		 {% if student.link  %}	
 	      <span class="project-title"><a href="{{ student.link }}">{{ student.name }}</a> ({{ student.degree}})</span>
