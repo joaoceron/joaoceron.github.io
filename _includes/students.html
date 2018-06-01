@@ -16,8 +16,12 @@
       <h3 class="level-title">{{ student.name }} </h3>
 		- <span class="project-tagline">{{ student.project }}</span>
 
-			
-	      <span class="project-title"><a href="{{ student.link }}">{{ student.name }}</a></span>
+		 {% if student.link  %}	
+	      <span class="project-title"><a href="{{ student.link }}">{{ student.name }}</a> ({{ student.degree}})</span>
+		 {% else %}
+	      <span class="project-title">{{ student.name }} ({{ student.degree}}) </span>
+
+		 {% endif %}
 		        - <span class="project-tagline">{{ student.project}}</span>
     </div><!--//item-->
     {% endfor %}
