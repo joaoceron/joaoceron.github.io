@@ -146,11 +146,13 @@ publications:
 
 students:
     title: Students
-    intro: 'We have an open position for one Ph.D. student. The research subject is associated with anycast and DDoS. You can find more details in the following description <a href="https://joaoceron.github.io/assets/images/php-vacancy-NWO-DHS.pdf" target="_blank">here</a>.'
-    #names:
-    #    - student:
-    #      name: Tiririca
-    #      project: Senado
+#    intro: 'We have an open position for one Ph.D. student. The research subject is associated with anycast and DDoS. You can find more details in the following description <a href="https://joaoceron.github.io/assets/images/php-vacancy-NWO-DHS.pdf" target="_blank">here</a>.'
+    names:
+        - student:
+          name: Dzul Dzulqarnain
+          project: IoT Botnet
+          link:
+          degree: Master
     #    - student:
     #      name: Sketch & Photoshop
     #      project: opa6
