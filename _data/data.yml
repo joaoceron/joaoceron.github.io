@@ -39,10 +39,10 @@ career-profile:
     Communication Systems (DACS)</a> group at the <a
     href="https://www.utwente.nl/en/eemcs/"> Faculty of Electrical
     Engineering, Maths and Computer Science (EEMCS) </a> at the <a
-    href="http://www.utwente.nl">University of Twente.</a> <br> <br>
-    Currently, I coordinate the activities of the <a
-    href="http://www.sand-project.nl/">SAND </a> project that is
-    supported by <a href="http://www.sidn.nl">SIDN</a>, <a
+    href="http://www.utwente.nl">University of Twente, The
+    Netherlands.</a> <br> <br> Currently, I coordinate the activities
+    of the <a href="http://www.sand-project.nl/">SAND </a> project
+    that is supported by <a href="http://www.sidn.nl">SIDN</a>, <a
     href="http://www.utwente.nl">University of Twente</a>, and <a
     href="http://www.nlnetlabs.nl">NLNETLABS</a>.
 
@@ -103,23 +103,33 @@ projects:
 
 publications:
     title: Publications
-    intro: "You can list your publications in this section."
+    intro: ""
     
     publications:
       - paper:
-        title: Mars An sdn-based malware analysis solution
+        title: An sdn-based malware analysis solution
         authors: Jo&atilde;o Marcelo Ceron; C&iacute;ntia Borges Margi; Lisandro Zambenedetti Granville
         conference: 2016 IEEE Symposium on Computers and Communication (ISCC)
 
       - paper:
-        title: On using mashups for composing network management applications
-        authors: Carlos Raniery Paula dos Santos; Rafael Santos Bezerra; Jo&atilde;o Marcelo Ceron; Lisandro Zambenedetti Granville; Liane Margarida Rockenbach Tarouco
-        conference: "IEEE Communications Magazine Year: 2010, Volume: 48, Issue: 12"
+        title: "MARS: From traffic containment to network reconfiguration in malware-analysis systems"
+        authors: "Jo&atilde;o Marcelo Ceron, C&iacute;ntia Borges Margi, Lisandro Zambenedetti Granville"
+        conference: 2017 Computer Networks: The International Journal of Computer and Telecommunications Networking - Elsevier
 
       - paper:
         title: Botnet master detection using a mashup-based approach
         authors: Carlos Raniery P. dos Santos; Rafael Santos Bezerra; Jo&atilde;o  Marcelo Ceron; Lisandro Zambenedetti Granville; Liane M. R. Tarouco
         conference: "2010 International Conference on Network and Service Management"
+
+      - paper:
+        title: Anatomy of SIP Attacks
+        authors: "Jo&atilde;o Marcelo Ceron, Klaus Steding-Jessen, Cristine Hoeper"
+        conference: "; login:: the magazine of USENIX & SAGE, 2012"
+
+      - paper:
+        title: On using mashups for composing network management applications
+        authors: Carlos Raniery Paula dos Santos; Rafael Santos Bezerra; Jo&atilde;o Marcelo Ceron; Lisandro Zambenedetti Granville; Liane Margarida Rockenbach Tarouco
+        conference: "IEEE Communications Magazine Year: 2010, Volume: 48, Issue: 12"
 
       - paper:
         title: Identifying botnet communications using a mashup-based approach
@@ -131,15 +141,7 @@ publications:
         authors: "Emerson Salvadori Virti, Liane Margarida Rockenbach Tarouco, Lisandro Zambenedetti Granville, Leandro M&aacute;rcio Bertholdo,Jo&atilde;o Marcelo Ceron"
         conference: "MonAm (2006 set.: T&uuml;bingen, Germany). Proceedings of the IEEE/IST. TÃ¼bingen: IEEE, 200"
 
-      - paper:
-        title: "MARS: From traffic containment to network reconfiguration in malware-analysis systems"
-        authors: "Jo&atilde;o Marcelo Ceron, C&iacute;ntia Borges Margi, Lisandro Zambenedetti Granville"
-        conference: "Computer Networks "
 
-      - paper:
-        title: Anatomy of SIP Attacks
-        authors: "Jo&atilde;o Marcelo Ceron, Klaus Steding-Jessen, Cristine Hoeper"
-        conference: "; login:: the magazine of USENIX & SAGE, 2012"
 
 
 students:
