@@ -94,7 +94,7 @@ projects:
         tagline: "Perform applied research in Anycast services aiming to provide tools and recomendations for DNS operators."
 
       - project:
-        title: Plannning for Anycast as Anti-DDoS
+        title: PAADDoS - Plannning for Anycast as Anti-DDoS
         link: "https://ant.isi.edu/paaddos/"
         tagline: "Perform applied research in Anycast services aiming to provide tools and recomendations for DNS operators."
 
