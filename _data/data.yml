@@ -91,7 +91,13 @@ projects:
       - project:
         title: SAND
         link: "http://www.sand-project.nl/"
-        tagline: "Perform applied research in Anycast services aiming to provide tools and recommendations for DNS operators."
+        tagline: "Perform applied research in Anycast services aiming to provide tools and recomendations for DNS operators."
+
+      - project:
+        title: Plannning for Anycast as Anti-DDoS
+        link: "https://ant.isi.edu/paaddos/"
+        tagline: "Perform applied research in Anycast services aiming to provide tools and recomendations for DNS operators."
+
       - project:
         title: MARS
         link: "http://mars.botlog.org/"
