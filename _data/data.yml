@@ -112,6 +112,12 @@ publications:
     intro: ""
     
     publications:
+
+      - paper:
+        title: Improving IoT Botnet Investigation Using an Adaptive Network Layer
+        authors: Jo&atilde;o Marcelo Ceron; Klaus Steding-Jessen, Cristine Hoepers, C&iacute;ntia Borges Margi; Lisandro Zambenedetti Granville
+        conference: 2019  Threat Identification and Defence for Internet-of-Things - Sensors -  MDPI AG, Basel, Switzerland
+
       - paper:
         title: An sdn-based malware analysis solution
         authors: Jo&atilde;o Marcelo Ceron; C&iacute;ntia Borges Margi; Lisandro Zambenedetti Granville
