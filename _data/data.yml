@@ -114,6 +114,11 @@ publications:
     publications:
 
       - paper:
+        title: Are Darknets All The Same? On Darknet Visibility for Security Monitoring.
+        authors: Jo&atilde;o Marcelo Ceron; Klaus Steding-Jessen, Cristine Hoepers, C&iacute;ntia Borges Margi; Lisandro Zambenedetti Granville
+        conference: 2019  Threat Identification and Defence for Internet-of-Things - Sensors -  MDPI AG, Basel, Switzerland
+
+      - paper:
         title: Improving IoT Botnet Investigation Using an Adaptive Network Layer
         authors: Jo&atilde;o Marcelo Ceron; Klaus Steding-Jessen, Cristine Hoepers, C&iacute;ntia Borges Margi; Lisandro Zambenedetti Granville
         conference: 2019  Threat Identification and Defence for Internet-of-Things - Sensors -  MDPI AG, Basel, Switzerland
@@ -165,9 +170,12 @@ students:
           project: IoT Botnet
           link:
           degree: Master
-    #    - student:
-    #      name: Sketch & Photoshop
-    #      project: opa6
+        - student:
+          name: Christodoulos Tziampazis
+          project: Medical devices discoverability
+        - student:
+          name: Christian Scholten
+          project:  Characterizing low-cost routers attacks
 
 footer: 
     text: ''
