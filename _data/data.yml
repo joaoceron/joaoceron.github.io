@@ -173,9 +173,13 @@ students:
         - student:
           name: Christodoulos Tziampazis
           project: Medical devices discoverability
+          link:
+          degree: Bachelor
         - student:
           name: Christian Scholten
           project:  Characterizing low-cost routers attacks
+          link: https://github.com/cpbscholten/mod12_research_project/blob/master/paper/research_project_paper.pdf
+          degree: Bachelor
 
 footer: 
     text: ''
