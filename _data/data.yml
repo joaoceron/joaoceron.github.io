@@ -106,6 +106,11 @@ projects:
         title: IoT malware investigation
         link: "#"
         tagline: "Investigate IoT malware characteristics."
+      - project:
+        title: Online discoverability and vulnerabilities of ICS/SCADA devices in the Netherlands
+        link: "https://research.utwente.nl/en/publications/online-discoverability-and-vulnerabilities-of-icsscada-devices-in"
+        tagline: "Online discoverability and vulnerabilities"
+
 
 publications:
     title: Publications
@@ -115,8 +120,8 @@ publications:
 
       - paper:
         title: Are Darknets All The Same? On Darknet Visibility for Security Monitoring.
-        authors: Jo&atilde;o Marcelo Ceron; Klaus Steding-Jessen, Cristine Hoepers, C&iacute;ntia Borges Margi; Lisandro Zambenedetti Granville
-        conference: 2019  Threat Identification and Defence for Internet-of-Things - Sensors -  MDPI AG, Basel, Switzerland
+        authors: Idilio Drago, Marco Mellia, Martino Trevisan and Francesca Soro (Politecnico di Torino, Italy); Jose Jair Santanna and Joao Ceron (University of Twente, The Netherlands)
+        conference: 2019  IEEE International Symposium on Local and Metropolitan Area Networks
 
       - paper:
         title: Improving IoT Botnet Investigation Using an Adaptive Network Layer
