@@ -32,10 +32,9 @@ sidebar:
           item: Honeypots
           link:
 
-
 career-profile: 
     title: About Me
-    text: '<h3>short big</h3>
+    text: '<h5>short bio</h5>
     Joao Ceron is a network security researcher engineer at <a
     href="https://www.sidnlabs.nl/">SIDN labs</a>. He has a degree in
     computer science, a masters degree in computer security and a
@@ -44,17 +43,6 @@ career-profile:
     and fraudsters. Recently, he was commissioned by the Ministry of
     Justice and Security in the Netherlands to investigate the
     vulnerability of critical infrastructure equipment.<hr>
-    I&apos;m a post-doctoral network security researcher in the <a
-    href="http://www.utwente.nl/ewi/dacs/"> Design and Analysis of
-    Communication Systems (DACS)</a> group at the <a
-    href="https://www.utwente.nl/en/eemcs/"> Faculty of Electrical
-    Engineering, Maths and Computer Science (EEMCS) </a> at the <a
-    href="http://www.utwente.nl">University of Twente, The
-    Netherlands.</a> <br> <br> Currently, I coordinate the activities
-    of the <a href="http://www.sand-project.nl/">SAND </a> project
-    that is supported by <a href="http://www.sidn.nl">SIDN</a>, <a
-    href="http://www.utwente.nl">University of Twente</a>, and <a
-    href="http://www.nlnetlabs.nl">NLNETLABS</a>.
 
     <br><br>My background is in applied network security research, in
     particular, to investigate malware behaviors. In my master s
