@@ -35,14 +35,15 @@ sidebar:
 
 career-profile: 
     title: About Me
-    text: 'Joao Ceron is a network security researcher engineer at <a
+    text: '<h3>short big</h3>
+    Joao Ceron is a network security researcher engineer at <a
     href="https://www.sidnlabs.nl/">SIDN labs</a>. He has a degree in
     computer science, a masters degree in computer security and a
     Ph.D. in computer engineering. He has worked for more than 10
     years in computer emergency teams dealing with real-world attacks
     and fraudsters. Recently, he was commissioned by the Ministry of
     Justice and Security in the Netherlands to investigate the
-    vulnerability of critical infrastructure equipment.
+    vulnerability of critical infrastructure equipment.<hr>
     I&apos;m a post-doctoral network security researcher in the <a
     href="http://www.utwente.nl/ewi/dacs/"> Design and Analysis of
     Communication Systems (DACS)</a> group at the <a
