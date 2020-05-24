@@ -6,7 +6,7 @@ sidebar:
     
     # Profile information
     name: dr. Jo&atilde;o Marcelo Ceron
-    tagline: Network Security Researcher
+    tagline: Network Security Researcher Engineer 
     pic: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
     
     # Sidebar links
@@ -72,6 +72,10 @@ career-profile:
     attacks.'
 
 studies: 
+    - education:
+      degree: Post-Doctoral researcher 
+      university: University of Twente - The Netherlands
+
     - education:
       degree: Ph.D in Computer Engineering
       university: University of Sao Paulo - Brazil
