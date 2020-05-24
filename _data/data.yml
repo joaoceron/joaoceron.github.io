@@ -107,7 +107,7 @@ projects:
         tagline: "Perform applied research in Anycast services aiming to provide tools and recomendations for DNS operators."
 
       - project:
-        title: SAND [ended 2020]
+        title: <hr> SAND [ended 2020]
         link: "http://www.sand-project.nl/"
         tagline: "Perform applied research in Anycast services aiming to provide tools and recomendations for DNS operators."
 
