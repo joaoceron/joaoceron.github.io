@@ -1,10 +1,12 @@
 {% if site.data.data.career-profile %}
-<section class="section summary-section">
+<section class="section summary-section" aria-labelledby="career-profile-title">
 
-  <h2 class="section-title"><i class="fa fa-user"></i>{{ site.data.data.career-profile.title }}</h2>
+  <h2 id="career-profile-title" class="section-title"><i class="fa fa-user" aria-hidden="true"></i>{{ site.data.data.career-profile.title }}</h2>
 
-    <div style="text-align:justify" class="summary">
-      <p>{{ site.data.data.career-profile.text }}</p>
+    <div class="summary" style="text-align:justify;">
+      <div class="summary-content">
+        {{ site.data.data.career-profile.text }}
+      </div>
     </div><!--//summary-->
     
 </section><!--//section-->

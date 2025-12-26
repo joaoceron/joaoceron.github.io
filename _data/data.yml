@@ -1,16 +1,16 @@
 sidebar:
     # Site Settings
     title: dr. Jo&atilde;o Ceron
-    url: 'http://botlog.org/'
+    url: 'http://www.botlog.org/'
     about: false # set to False or comment line if you want to remove the "How to use?" in the sidebar
     
     # Profile information
     name: dr. Jo&atilde;o Marcelo Ceron
-    tagline: Network Security Researcher Engineer 
+    tagline: Security Solutions Architect | Agentic AI & SOC Automation 
     pic: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
     
     # Sidebar links
-    website: botlog.org
+    website: www.botlog.org
     linkedin: ceron
     github: joaoceron
     twitter: '@ceron'
@@ -35,39 +35,19 @@ sidebar:
 career-profile: 
     title: About Me
     text: '<h5>short bio</h5>
-    Joao Ceron is a network security researcher engineer at <a
-    href="https://www.sidnlabs.nl/">SIDN labs</a>. He has a degree in
-    computer science, a masters degree in computer security and a
-    Ph.D. in computer engineering. He has worked for more than 10
-    years in computer emergency teams dealing with real-world attacks
-    and fraudsters. Recently, he was commissioned by the Ministry of
-    Justice and Security in the Netherlands to investigate the
-    vulnerability of critical infrastructure equipment.<hr>
+    Joao M. Ceron is a Security Engineer and Cybersecurity Researcher with 15+ years of experience spanning SOC operations, network security research, and incident response. Currently working as a Solutions Architect at <a href="https://www.torq.io/">Torq</a>, where he designs and deploys agentic AI solutions for enterprise SOCs. He holds a Ph.D. in Computer Engineering from the University of São Paulo, and has contributed to cybersecurity projects funded by the U.S. Department of Homeland Security and presented research at USENIX Security.<hr>
 
-    <br><br>My background is in applied network security research, in
-    particular, to investigate malware behaviors. In my master s
-    degree, I studied botnet tracking mechanisms using network flows
-    and malware analysis. You can find my  master&apos;s thesis <a
-    href="http://www.lume.ufrgs.br/handle/10183/70238?locale-attribute=en">[here] </a>
-    (in Portuguese only), however, we have published few papers with
-    the result of that research, see  <a href="#papers"> papers</a>
-    section. <br>
+    <br><br>My career spans from hands-on security operations to cutting-edge research and AI-driven security automation. I began as a Security Analyst at <a href="http://www.cert.br/">Brazilian National CERT</a> (CERT.br), where I investigated computer security incidents across networks connected to the Brazilian Internet for nearly 8 years, handling real-world attacks including phishing, DDoS, malware, and misconfigured services used in amplification attacks. During this time, I also founded TRI (UFRGS Computer Security Incident Response Team) and managed security operations for the Federal University of Rio Grande do Sul.<br><br>
 
-    During my Ph.D. I developed a malware analysis environment based
-    on SDN (Software-Defined Networking). The idea is to manipulate
-    the flows originated from malware to triggers unseen malware
-    behaviors. You can find my Ph.D. thesis <a
-    href="http://www.teses.usp.br/teses/disponiveis/3/3141/tde-28022018-105426/en.php">[here]</a>
-    (also in Portuguese), if you are interested check it out the <a
-    href="#papers"> papers</a> section that we published associated
-    with this subject. <br><br>
+    In my academic journey, I pursued a Master&apos;s degree in Computer Science at the Federal University of Rio Grande do Sul, focusing on botnet tracking mechanisms using network flows and malware analysis. You can find my master&apos;s thesis <a href="http://www.lume.ufrgs.br/handle/10183/70238?locale-attribute=en">[here]</a> (in Portuguese only), and related publications in the <a href="#papers">papers</a> section. During my Ph.D. at the University of São Paulo, I developed a malware analysis environment based on SDN (Software-Defined Networking) to manipulate network flows and trigger unseen malware behaviors. My Ph.D. thesis is available <a href="http://www.teses.usp.br/teses/disponiveis/3/3141/tde-28022018-105426/en.php">[here]</a> (also in Portuguese), with associated publications in the <a href="#papers">papers</a> section.<br><br>
 
-    Besides my research background, I used to work as a Security
-    Analyst at <a href="http://www.cert.br/">Brazilian National
-    CERT</a> where we handle computer security incidents associated
-    with Brazilian network address space, including phishing, DDoS,
-    malware, and misconfigured services used in amplification
-    attacks.'
+    As a Postdoctoral Researcher at the University of Twente in the Netherlands, I conducted research on DDoS attacks, IoT malware, and botnet detection. I delivered a critical infrastructure security report on IoT devices for the Ministry of Justice and Security of the Netherlands, and collaborated as a Visiting Researcher at the University of Southern California on DDoS mitigation techniques. I then joined <a href="https://www.sidnlabs.nl/">SIDN</a> as a Network Security Research Engineer, leading DDoS mitigation research for the .nl country-code top-level domain registry and developing Anycast-based defense strategies for critical DNS infrastructure.<br><br>
+
+    In industry, I worked as a Network Security Engineer at <a href="https://proton.me/mail">ProtonMail</a>, contributing to privacy-focused security solutions for one of the world&apos;s largest encrypted email providers. At <a href="https://nubank.com.br/">Nubank</a>, Latin America&apos;s largest digital bank serving 100M+ customers, I served as SOC Tech Lead, leading the end-to-end implementation of SOAR platforms (Google SecOps, Torq) and designing automated security playbooks that significantly reduced incident response times. I pioneered early adoption of AI model integration into security operations to enhance threat analysis and decision-making.<br><br>
+
+    Currently, as Solutions Architect at <a href="https://www.torq.io/">Torq</a>, I design and deploy agentic AI solutions for enterprise SOCs, leveraging Multi-Agent Systems (MAS) to autonomously handle Tier-1 security operations. I architect AI-driven workflows that enable autonomous threat triage, investigation, and remediation at machine speed, helping clients close 90%+ of alerts without human intervention through natural language-driven security automation using LLM-powered orchestration.<br><br>
+
+    My work has included contributions to cybersecurity projects funded by the U.S. Department of Homeland Security, and I have presented research on DDoS mitigation and Anycast at the USENIX Security Conference. You can find a comprehensive list of my publications in the <a href="#papers">papers</a> section, including work on planning for Anycast as Anti-DDoS, SDN-based malware analysis, IoT botnet investigation, and SIP attacks.'
 
 
 studies: 
